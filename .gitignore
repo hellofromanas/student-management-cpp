@@ -1,0 +1,8 @@
+build/
+*.exe
+*.obj
+*.o
+student_manager
+test_manager
+students.csv
+test_students.csv
