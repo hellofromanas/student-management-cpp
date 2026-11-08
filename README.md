@@ -13,7 +13,7 @@ object-oriented structure and dependency-free unit tests.
 ## Screenshot
 ![Example session: ranking and class statistics](docs/screenshots/example-session.png)
 
-_Real output of the application running on `data/sample_students.csv` (terminal text rendered as an image)._
+_Output of a real run on `data/sample_students.csv` (terminal text rendered as an image; table columns condensed)._
 
 ## Project structure
 ```
